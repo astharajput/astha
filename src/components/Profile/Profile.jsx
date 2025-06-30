@@ -1,6 +1,6 @@
 import React from 'react'
 import './Profile.css'
-import ME from '../../assets/a1.png'
+import ME from '../../assets/a1.jpeg'
 import CTA from './CTA'
 import Socials from './Socials'
 
