@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/astha/static/css/main.5cc51da7.css",
-    "main.js": "/astha/static/js/main.d17539ba.js",
-    "static/media/a2.png": "/astha/static/media/a2.68cf007090bb7c9865a1.png",
+    "main.js": "/astha/static/js/main.2ec2c5df.js",
+    "static/media/ab.jpeg": "/astha/static/media/ab.93d518edb60947f6c3da.jpeg",
     "static/media/shopping.png": "/astha/static/media/shopping.b0b0e6a48577552f9bf7.png",
     "static/media/a1.png": "/astha/static/media/a1.3755bbae5cb7c07fbec0.png",
     "static/media/astha(cv).pdf": "/astha/static/media/astha(cv).c48f4de4675bd23090e8.pdf",
@@ -11,10 +11,10 @@
     "static/media/c.jpg": "/astha/static/media/c.6500934267174a660540.jpg",
     "index.html": "/astha/index.html",
     "main.5cc51da7.css.map": "/astha/static/css/main.5cc51da7.css.map",
-    "main.d17539ba.js.map": "/astha/static/js/main.d17539ba.js.map"
+    "main.2ec2c5df.js.map": "/astha/static/js/main.2ec2c5df.js.map"
   },
   "entrypoints": [
     "static/css/main.5cc51da7.css",
-    "static/js/main.d17539ba.js"
+    "static/js/main.2ec2c5df.js"
   ]
 }
