@@ -1,5 +1,5 @@
 import React from 'react'
-import ME from '../../assets/a2.png'
+import ME from '../../assets/ab.jpeg'
 import './About_profile.css'
 import { FaAward } from 'react-icons/fa'
 import { GiSpellBook } from 'react-icons/gi'

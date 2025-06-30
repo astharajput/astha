@@ -129,7 +129,7 @@ header {
 }
 
 
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     .me {
         position: static;
         width: 90%;
@@ -150,19 +150,19 @@ header {
     .let {
         display: none;
     }
-}
+} */
 
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 480px) {
     .me {
 
-        width: 60%;
+        width: 50%;
+        max-width: 300px;
         height: auto;
-        margin: 4rem auto;
+        /* margin: 4rem auto; */
         display: block;
         border-radius: 2rem;
-        margin-left: 160px;
-        margin-bottom: 280px;
+        margin-bottom: 580px;
 
     }
 
@@ -175,7 +175,7 @@ header {
     }
 
     header {
-        height: 50vh;
+        height: 80vh;
     }
 
     .let {
