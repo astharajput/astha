@@ -18,7 +18,7 @@ const Portfolio = () => {
             id: 2,
             image: IMG1,
             title: "Task Scheduling in Cloud Computing",
-            github: "https://github.com/29deepak/Doctor-Appointment-App"
+            github: "https://github.com/astharajput"
         }
     ]
     data = data.sort((a, b) => b.id - a.id)
